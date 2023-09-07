@@ -1,0 +1,3 @@
+.switchT:has(input[type='checkbox']:checked) div span{
+  transform: translateX(20px);
+}
